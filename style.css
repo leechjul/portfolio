@@ -64,10 +64,6 @@ h1 {
   padding: 1em 0;
 }
 
-#projects{
-  padding-left: 1em;
-}
-
 @media (min-width: 400px) {
   #projects {
     width: 100%;
